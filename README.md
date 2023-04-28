@@ -1,5 +1,4 @@
-Note Taker
-GitHub license
+## Note Taker
 
 ## Description
 This Note Taker is a full-stack web application that allows users to create, read, and delete notes. The application is built using Node.js and Express.js to set up a server, along with HTML, CSS, and JavaScript for the frontend. The notes are stored in a JSON file, providing a simple and lightweight solution for managing user data.
